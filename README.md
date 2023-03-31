@@ -7,6 +7,7 @@ List of favorite food
 * Souvlaki
 * Tacos
 * Sushi
+* Fava
 * Noodles
 * Bao buns
 * Pies
